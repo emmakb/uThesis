@@ -11,7 +11,7 @@ phanalyzegfdl85= pH raster from 2090-2100 (IPSL- RCP8.5)
 phanalyzegfdl37= pH raster from 2090-2100 (IPSL-RCP3.7)
 phanalyzegfdl26= pH raster from 2090-2100 (IPSL-RCP2.6)
 
-#Load the necessary packages
+#Load necessary packages
 library(ggplot2)
 library(sf)
 library(rnaturalearth)
